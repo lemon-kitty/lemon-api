@@ -1,0 +1,9 @@
+server:
+  port: 8123
+  servlet:
+    context-path: /api
+
+lemon-api:
+  client:
+    access-key: lemon
+    secret-key: abcdef
